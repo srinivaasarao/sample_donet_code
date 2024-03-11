@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3RBCGDbLwQuM6QAzMo/2VaelYrf4n/YTqM9BDQsVbs43FefmjcdU972ttsg86niXegzB1ePsE31Me5WbIPqXA==",
+  "success": true,
+  "projectFilePath": "/home/giri/sample/sample.csproj",
+  "expectedPackageFiles": [
+    "/home/giri/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "/home/giri/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "/home/giri/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
